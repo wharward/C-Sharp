@@ -1,0 +1,6 @@
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\Toolbox_Snippet\Toolbox_Snippet\bin\Debug\Toolbox_Snippet.exe.config
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\Toolbox_Snippet\Toolbox_Snippet\obj\Debug\Toolbox_Snippet.csprojResolveAssemblyReference.cache
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\Toolbox_Snippet\Toolbox_Snippet\bin\Debug\Toolbox_Snippet.exe
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\Toolbox_Snippet\Toolbox_Snippet\bin\Debug\Toolbox_Snippet.pdb
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\Toolbox_Snippet\Toolbox_Snippet\obj\Debug\Toolbox_Snippet.exe
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\Toolbox_Snippet\Toolbox_Snippet\obj\Debug\Toolbox_Snippet.pdb

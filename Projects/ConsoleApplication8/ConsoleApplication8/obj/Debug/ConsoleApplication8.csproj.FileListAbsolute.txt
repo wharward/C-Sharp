@@ -1,0 +1,6 @@
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache

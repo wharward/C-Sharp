@@ -1,0 +1,6 @@
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\WAaro\Cloud Storage\GitHub\CourseWork\CourseWork\C-Sharp\C-Sharp\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
